@@ -3,3 +3,6 @@
 .venv-1/
 __pycache__/
 *.py[cod]
+Lidlar.xlsx
+pending_leads.json
+telegram_outbox/
